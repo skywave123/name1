@@ -2,3 +2,4 @@
 mencoba fork 
 mencoba multi
 test ke 3
+test ke 5
